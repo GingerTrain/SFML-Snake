@@ -1,0 +1,8 @@
+.git
+.vs
+
+Debug
+Release
+
+.sln
+.vcxproj
